@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Musa%20Ali%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20SOC%20%26%20Forensics%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Musa%20Ali%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20-%20SOC%20and%20Forensics%20-%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/musakhan-69aa642a5">
+<a href="https://www.linkedin.com/in/musa-khan-69aa642a5/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:musaalikhan05@gmail.com">
@@ -113,8 +113,8 @@ AI-driven platform for traffic optimisation, energy load balancing & public safe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=musa42069&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musa42069&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=musa42069&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=musa42069&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
 <br/>
 
